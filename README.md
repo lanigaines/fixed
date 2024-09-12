@@ -8,9 +8,9 @@ def main():
 
     # Example: Assuming you have the counts of males, females, and non-binary individuals
     # Replace these with your actual calculations
-    males = 10
-    females = 15
-    non_binary = 5
+    males = 40
+    females = 40
+    non_binary = 20
     total = males + females + non_binary
 
     if total == 0:
