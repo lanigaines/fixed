@@ -1,6 +1,6 @@
 def main():
     """
-    ##################################################
+    # Example
     Complete your code here
     Use m_perc, f_perc, nb_perc for your results
     ##################################################
